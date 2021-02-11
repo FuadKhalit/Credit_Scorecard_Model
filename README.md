@@ -9,3 +9,8 @@ Using R language to create credit scorecard model using supervised learning tech
 | DMwR          | Handle Imbalance data (SMOTE Algorithm)     |
 | Data.Table    | Data frame manipulation                     |         
 </br>
+
+Alt-H2 Result
+![result](image/NB.png)
+![result](image/RF.png)
+![result](image/ANN.png)
