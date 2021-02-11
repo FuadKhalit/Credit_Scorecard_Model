@@ -10,7 +10,11 @@ Using R language to create credit scorecard model using supervised learning tech
 | Data.Table    | Data frame manipulation                     |         
 </br>
 
-Alt-H2 Result
-![result](image/NB.png)
-![result](image/RF.png)
-![result](image/ANN.png)
+## Result
+---------
+### Naive Bayes Model
+<br>![result](image/NB.png)</br>
+### Random Forest
+<br>![result](image/RF.png)</br>
+### Artificial Neural Network
+<br>![result](image/ANN.png)</br>
