@@ -1,5 +1,5 @@
 # Credit_Scorecard_Model
-Using R language to create credit scorecard model using supervised learning technique by applying 3 algorithm (Naive Bayes, Random Forest and Multilayer perceptron). Utilizing standard package such as caret, ggplot and big data package in H2O to increase computation power by setting up cluster to run distributed parallel computing in local machine.
+Using R language to create credit scorecard model using supervised learning technique by experimenting with 3 algorithm (Naive Bayes, Random Forest and Artificial Neural Network). Solve the issues of data imbalance by applying SMOTE algorithm together with principal component analysis (PCA) to reduce the dimension of the dataset. Then run an experiment to see the impact on performance of dataset with SMOTE & PCA. Result showed that there is an increase performance of the model with SMOTE & PCA treatment and Artificial Neural Network (ANN) worked best among other model that has been developed. 
 <br>
 | Package       | Description                                 |
 | ------------- |:-------------------------------------------:|
@@ -18,3 +18,5 @@ Using R language to create credit scorecard model using supervised learning tech
 <br>![result](image/RF.png)</br>
 ### Artificial Neural Network
 <br>![result](image/ANN.png)</br>
+## Overall Result Table
+<br>![result](image/table1.png)</br>
